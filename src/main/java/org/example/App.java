@@ -15,5 +15,6 @@ public class App
         System.out.println( "Hello hot-fix!" );
         System.out.println( "master hot-fix!" );
         System.out.println( "hot-fix test!" );
+        System.out.println( "push test!" );
     }
 }
